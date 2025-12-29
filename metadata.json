@@ -1,0 +1,5 @@
+{
+  "name": "FlashChat AI",
+  "description": "A high-performance, low-latency chat application powered by Gemini 2.5 Flash Lite for instantaneous AI responses and a sleek, modern interface.",
+  "requestFramePermissions": []
+}
